@@ -1,0 +1,6 @@
+interface:
+  display_name: "SDD and TDD"
+  short_description: "Keep specs, tests and code in sync, one behavior at a time"
+  default_prompt: "Use $sdd-and-tdd to implement this change while keeping its specifications, tests and code aligned."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,11 @@
+{
+  "name": "@game-dev-rta-club/sdd-and-tdd",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A portable agent skill that keeps specifications, tests and code aligned, one behavior at a time",
+  "type": "module",
+  "license": "MIT",
+  "repository": "github:game-dev-rta-club/sdd-and-tdd",
+  "engines": { "node": ">=24" },
+  "scripts": { "test": "node --test" }
+}
