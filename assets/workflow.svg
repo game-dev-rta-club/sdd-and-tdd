@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-labelledby="title desc">
+  <title id="title">One behavior, one complete loop</title>
+  <desc id="desc">Specify a promise, confirm its test fails, implement enough to pass, then reconcile specs, tests and code. Repeat for the next behavior.</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M1 1L9 5L1 9" fill="none" stroke="#21867e" stroke-width="2" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <rect width="1280" height="340" rx="20" fill="#f7f5ee"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="44" y="48" font-size="17" font-weight="700" letter-spacing="2" fill="#56726d">ONE OBSERVABLE BEHAVIOR</text>
+    <g fill="#fff" stroke="#d6e4df" stroke-width="2">
+      <rect x="44" y="76" width="258" height="142" rx="14"/>
+      <rect x="356" y="76" width="258" height="142" rx="14"/>
+      <rect x="668" y="76" width="258" height="142" rx="14"/>
+      <rect x="980" y="76" width="258" height="142" rx="14"/>
+    </g>
+    <g fill="#0b5450" font-size="27" font-weight="700">
+      <text x="66" y="127">Specify</text>
+      <text x="378" y="127">Test</text>
+      <text x="690" y="127">Implement</text>
+      <text x="1002" y="127">Reconcile</text>
+    </g>
+    <g font-size="20" fill="#536c66">
+      <text x="66" y="170">State the promise</text>
+      <text x="378" y="170">Prove it fails first</text>
+      <text x="690" y="170">Make the test pass</text>
+      <text x="1002" y="170">Check both directions</text>
+    </g>
+    <path d="M310 147H344M622 147H656M934 147H968" fill="none" stroke="#21867e" stroke-width="3" marker-end="url(#arrow)"/>
+    <path d="M1109 219V272Q1109 286 1095 286H188Q173 286 173 272V231" fill="none" stroke="#21867e" stroke-width="3" marker-end="url(#arrow)"/>
+    <rect x="443" y="265" width="394" height="42" rx="21" fill="#e2f1ed"/>
+    <text x="640" y="292" text-anchor="middle" font-size="20" font-weight="700" fill="#0b5450">Specs ↔ tests ↔ code</text>
+  </g>
+</svg>

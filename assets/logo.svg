@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">SDD and TDD</title>
+  <desc id="desc">A specification connects to a checked test and a pair of code braces. The three stay aligned.</desc>
+  <path d="M64 42V57L29 76M64 57L99 76M47 94H81" fill="none" stroke="#91ada8" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="46" y="7" width="36" height="36" rx="8" fill="#21867e"/>
+  <path d="M56 19H72M56 26H72M56 33H65" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round"/>
+  <rect x="10" y="76" width="38" height="36" rx="8" fill="#21867e"/>
+  <path d="M20 94L27 101L39 87" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="80" y="76" width="38" height="36" rx="8" fill="#153d3b"/>
+  <path d="M93 86L88 94L93 102M105 86L110 94L105 102" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="64" cy="57" r="5" fill="#efb44b"/>
+</svg>
