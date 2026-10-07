@@ -27,7 +27,9 @@
       <text x="690" y="170">Make the test pass</text>
       <text x="1002" y="170">Check both directions</text>
     </g>
-    <path d="M310 147H344M622 147H656M934 147H968" fill="none" stroke="#21867e" stroke-width="3" marker-end="url(#arrow)"/>
+    <path d="M310 147H344" fill="none" stroke="#21867e" stroke-width="3" marker-end="url(#arrow)"/>
+    <path d="M622 147H656" fill="none" stroke="#21867e" stroke-width="3" marker-end="url(#arrow)"/>
+    <path d="M934 147H968" fill="none" stroke="#21867e" stroke-width="3" marker-end="url(#arrow)"/>
     <path d="M1109 219V272Q1109 286 1095 286H188Q173 286 173 272V231" fill="none" stroke="#21867e" stroke-width="3" marker-end="url(#arrow)"/>
     <rect x="443" y="265" width="394" height="42" rx="21" fill="#e2f1ed"/>
     <text x="640" y="292" text-anchor="middle" font-size="20" font-weight="700" fill="#0b5450">Specs ↔ tests ↔ code</text>
